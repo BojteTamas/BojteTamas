@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**BojteTamas/BojteTamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer 👨‍💻 who is passionate about automation, CI/CD and other cool stuff.
 
-Here are some ideas to get you started:
+⚡ How to reach me: [LinkedIn](https://www.linkedin.com/in/%E2%98%95-b%C5%91jte-tam%C3%A1s-b53593ab/) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
+
+[![Tamas's github stats](https://github-readme-stats.vercel.app/api?username=BojteTamas&show_icons=true&theme=vue&hide=["issues"])](https://github.com/BojteTamas/github-readme-stats)
