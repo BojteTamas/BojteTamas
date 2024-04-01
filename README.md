@@ -2,7 +2,7 @@
 
 I'm a software engineer 👨‍💻 who is passionate about automation, CI/CD and other cool stuff.
 
-⚡ How to reach me: [LinkedIn](https://www.linkedin.com/in/%E2%98%95-bojtetamas) 
+⚡ How to reach me: [LinkedIn](https://www.linkedin.com/in/tamasbojte/) 
 
 
 ### 🔧 Technologies & Tools
